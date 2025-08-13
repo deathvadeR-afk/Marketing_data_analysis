@@ -169,7 +169,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Sagar Roy**
 - LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/sagar-roy-887080309)
 - Email: sagarroy54321@gmail.com
-- Portfolio: [Your Portfolio Website](https://yourportfolio.com)
 
 ## 🙏 Acknowledgments
 
